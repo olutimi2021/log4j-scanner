@@ -268,7 +268,7 @@ def parse_url(url):
     Parses the URL.
     """
 
-    # Url: https://securewebmail/login.jsp
+    # Url: https://securewebmailling/login.jsp
     url = url.replace('#', '%23')
     url = url.replace(' ', '%20')
 
