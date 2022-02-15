@@ -10,7 +10,7 @@
 
 import argparse
 import random
-import requests
+import request
 import time
 import sys
 from urllib import parse as urlparse
